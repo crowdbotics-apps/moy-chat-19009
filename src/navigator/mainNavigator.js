@@ -22,7 +22,6 @@ import Dashboard11682536Navigator from '../features/Dashboard11682536/navigator'
 import CalendarView1282534Navigator from '../features/CalendarView1282534/navigator';
 import UserProfile882530Navigator from '../features/UserProfile882530/navigator';
 import Feed1282527Navigator from '../features/Feed1282527/navigator';
-import SignUp2782526Navigator from '../features/SignUp2782526/navigator';
 import EmailAuth682524Navigator from '../features/EmailAuth682524/navigator';
 
 /**
@@ -49,7 +48,6 @@ Dashboard11682536: { screen: Dashboard11682536Navigator },
 CalendarView1282534: { screen: CalendarView1282534Navigator },
 UserProfile882530: { screen: UserProfile882530Navigator },
 Feed1282527: { screen: Feed1282527Navigator },
-SignUp2782526: { screen: SignUp2782526Navigator },
 EmailAuth682524: { screen: EmailAuth682524Navigator },
 
     /** new navigators can be added here */
