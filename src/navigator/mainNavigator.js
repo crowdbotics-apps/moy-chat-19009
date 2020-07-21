@@ -18,7 +18,6 @@ import Messaging3482555Navigator from '../features/Messaging3482555/navigator';
 import Camera2982551Navigator from '../features/Camera2982551/navigator';
 import NotificationList2482548Navigator from '../features/NotificationList2482548/navigator';
 import ArticleList1982540Navigator from '../features/ArticleList1982540/navigator';
-import Settings2182538Navigator from '../features/Settings2182538/navigator';
 import Dashboard11682536Navigator from '../features/Dashboard11682536/navigator';
 import Contacts1782535Navigator from '../features/Contacts1782535/navigator';
 import CalendarView1282534Navigator from '../features/CalendarView1282534/navigator';
@@ -47,7 +46,6 @@ Messaging3482555: { screen: Messaging3482555Navigator },
 Camera2982551: { screen: Camera2982551Navigator },
 NotificationList2482548: { screen: NotificationList2482548Navigator },
 ArticleList1982540: { screen: ArticleList1982540Navigator },
-Settings2182538: { screen: Settings2182538Navigator },
 Dashboard11682536: { screen: Dashboard11682536Navigator },
 Contacts1782535: { screen: Contacts1782535Navigator },
 CalendarView1282534: { screen: CalendarView1282534Navigator },

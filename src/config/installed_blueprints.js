@@ -13,7 +13,6 @@ export const installed_blueprints = [
 { name: 'Camera2982551', human_name: 'Camera 29', access_route: 'Camera2982551', icon: 'camera'},
 { name: 'NotificationList2482548', human_name: 'Notification List 24', access_route: 'NotificationList2482548'},
 { name: 'ArticleList1982540', human_name: 'Article List 19', access_route: 'ArticleList1982540'},
-{ name: 'Settings2182538', human_name: 'Settings 21', access_route: 'Settings2182538'},
 { name: 'Dashboard11682536', human_name: 'Dashboard 1 16', access_route: 'Dashboard11682536'},
 { name: 'Contacts1782535', human_name: 'Contacts 17', access_route: 'Contacts1782535'},
 { name: 'CalendarView1282534', human_name: 'Calendar View 12', access_route: 'CalendarView1282534', icon: 'calendar'},
