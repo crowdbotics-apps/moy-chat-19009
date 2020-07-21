@@ -19,7 +19,6 @@ import Camera2982551Navigator from '../features/Camera2982551/navigator';
 import NotificationList2482548Navigator from '../features/NotificationList2482548/navigator';
 import ArticleList1982540Navigator from '../features/ArticleList1982540/navigator';
 import Dashboard11682536Navigator from '../features/Dashboard11682536/navigator';
-import Contacts1782535Navigator from '../features/Contacts1782535/navigator';
 import CalendarView1282534Navigator from '../features/CalendarView1282534/navigator';
 import UserProfile882530Navigator from '../features/UserProfile882530/navigator';
 import Feed1282527Navigator from '../features/Feed1282527/navigator';
@@ -47,7 +46,6 @@ Camera2982551: { screen: Camera2982551Navigator },
 NotificationList2482548: { screen: NotificationList2482548Navigator },
 ArticleList1982540: { screen: ArticleList1982540Navigator },
 Dashboard11682536: { screen: Dashboard11682536Navigator },
-Contacts1782535: { screen: Contacts1782535Navigator },
 CalendarView1282534: { screen: CalendarView1282534Navigator },
 UserProfile882530: { screen: UserProfile882530Navigator },
 Feed1282527: { screen: Feed1282527Navigator },
